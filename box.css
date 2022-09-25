@@ -1,0 +1,56 @@
+body{background-color: #c9c9c92b;
+    margin: 0;
+}
+
+.red{
+    background-color: red;
+    border: 10px;
+    padding: 20px;
+    width: 200px;
+    height: 200px;
+    display: block;
+}
+
+.blue{
+    background-color: blue;
+    border: 20px;
+    width: 200px;
+    height: 200px;
+    display: block;
+}
+    
+
+
+.green{
+    background-color: green;
+    border: 10px;
+    margin: 29px;
+    width: 200px;
+    height: 200px;
+    display: block;
+}
+    
+
+
+h3{
+    color: #45b29a;;
+}
+
+input[type=checkbox]{
+    accent-color: red;
+}
+input[type=radio]{
+    accent-color: black;
+}
+progress{
+    accent-color: red;
+}
+
+.flex{
+    flex: 1;
+    border: 1px solid black;
+    display: flex;
+    align-items: flex-end;
+    width: 250px;
+    height: 320px;
+}
